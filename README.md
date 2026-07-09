@@ -24,6 +24,7 @@
 - `otchet-sootvetstvie-vakansiy-2026-07-09.md` — почему вакансии подходят
 - `aktivnye-vakansii-2026-07-08.md` — сводка вакансий
 - `instrukciya-hh-psb-nspk.md` — инструкция по HH.ru
+- `resume_hh_131881986.md` — базовое резюме (Трансстройбанк)
 - `resume_psb_134052535.md` / PDF — резюме под ПСБ
 - `resume_nspk_sertifikaciya.md` / PDF — резюме под НСПК
 - `prompty-poisk-raboty.md` — промпты адаптации
