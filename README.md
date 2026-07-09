@@ -19,6 +19,18 @@
 
 ## Основные файлы
 
-- `resume_hh_131881986.md` — базовое резюме
-- `prompty-poisk-raboty.md` — промпты адаптации под вакансии
+- [`PLAN-otkliki.md`](PLAN-otkliki.md) — **актуальный план откликов**
+- `vakansii-moskva-2026-07-09.md` — вакансии по Москве
+- `otchet-sootvetstvie-vakansiy-2026-07-09.md` — почему вакансии подходят
 - `aktivnye-vakansii-2026-07-08.md` — сводка вакансий
+- `instrukciya-hh-psb-nspk.md` — инструкция по HH.ru
+- `resume_psb_134052535.md` / PDF — резюме под ПСБ
+- `resume_nspk_sertifikaciya.md` / PDF — резюме под НСПК
+- `prompty-poisk-raboty.md` — промпты адаптации
+
+## Статус откликов (09.07.2026)
+
+- ✅ ОТП — 130692980
+- ✅ ПСБ — 134052535
+- ✅ НСПК (чипы) — 130872458
+- Далее: Трансстройбанк → НСПК (сертификация карт) → EMV Contactless
