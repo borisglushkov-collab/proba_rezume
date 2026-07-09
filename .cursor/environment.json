@@ -1,0 +1,5 @@
+{
+  "name": "proba-rezume-cloud",
+  "install": "git status && git remote -v && ls -la",
+  "agentCanUpdateSnapshot": true
+}
